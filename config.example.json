@@ -1,0 +1,15 @@
+{
+  "app_id": "cli_你的飞书应用AppID",
+  "app_secret": "你的飞书应用AppSecret",
+  "bot_app_id": "cli_要拉入群的机器人AppID",
+
+  "chat_search_keyword": "协商",
+  "chat_search_interval_seconds": 300,
+
+  "refresh_token": "",
+  "user_open_id": "",
+  "auth_warn_days": 2,
+
+  "log_file": "inspector.log",
+  "verbose": false
+}

@@ -1,0 +1,3 @@
+# 飞书群巡检器依赖
+# 纯标准库，无外部依赖
+# 需要系统安装 lark-cli (https://github.com/larksuite/lark-cli)
